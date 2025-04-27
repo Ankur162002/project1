@@ -1,2 +1,2 @@
-# project1
-Project tracking a biker and making availability of the data of the nearby biker community people
+This Project is the complete frontend based project.
+This Project is based on the Crypto Exchange and Trading Website
