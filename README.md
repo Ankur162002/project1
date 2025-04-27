@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Crypty)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Crypty?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Crypty?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/cryptex)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/cryptex?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/cryptex?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
 
