@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/cryptex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/cryptex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/cryptex?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Crypty)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Crypty?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Crypty?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
 
   <br />
   <br />
 
-  <h2 align="center">Cryptex - Cryptocurrency Website</h2>
+  <h2 align="center">Crypty - Cryptocurrency Website</h2>
 
-  Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Crypty is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/cryptex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/Crypty/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Cryptex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Crypty Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Cryptex** locally, run this command on your git bash:
+To run **Crypty** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/cryptex.git
+sudo git clone https://github.com/codewithsadee/Crypty.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/cryptex.git
+git clone https://github.com/codewithsadee/Crypty.git
 ```
 
 ### Contact
